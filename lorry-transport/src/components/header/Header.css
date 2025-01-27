@@ -1,0 +1,21 @@
+.head {
+    display: block;
+    flex-wrap: wrap;
+    background: #ce3a3a;
+    justify-content: space-around;
+    align-items: center; /* Center items vertically if needed */
+    padding: 10px; /* Add some padding for spacing */
+  }
+  nav{
+    justify-content: space-around;
+  }
+
+  .logoo{
+    width: 13%;
+    border-radius: 50%;
+
+    margin: 0;
+  }
+  body.active-modal {
+    overflow-y: hidden;
+}

@@ -1,0 +1,14 @@
+.img-slide {
+    width: 1200px;
+    height: 800px;
+    margin-left: 100px;
+    overflow: hidden; /* Ensure the container hides overflow */
+}
+
+.img-sliders {
+    border: 2px solid darkgrey;
+    opacity: 1; /* Set opacity to 1 to make the slider visible */
+}
+.images img{
+    width: 1200px;
+}

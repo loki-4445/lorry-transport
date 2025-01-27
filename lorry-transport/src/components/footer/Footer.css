@@ -1,0 +1,22 @@
+footer {
+    height: 7px;
+    display: flex;
+    justify-content: space-around;
+}
+
+g h3{
+    border-right: 2px solid;
+    background-color: red;
+
+    background-color: inherit; /* Inherit the footer's background color */
+    flex: 1; /* Optional: Ensures equal space for both divs */
+    text-align: center; /* Optional: Center text within the div */
+}
+
+.foot{
+    min-height: 6vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 3px;
+}
